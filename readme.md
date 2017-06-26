@@ -6,4 +6,5 @@ My thoughts and solutions to the JS30 challenges created by [Wes Bos](http://wes
 
 ## Challenges
 
-JavaScript Drum Kit
+- [ ] JavaScript Drum Kit - Finished: 06/25 - [Notes](Challenge-Thoughts/01-drumkit.md) 
+- [ ] JS and CSS Clock - Finished - [Notes](Challenge-Thoughts/02-clock.md)
