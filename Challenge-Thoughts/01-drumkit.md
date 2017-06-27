@@ -1,8 +1,10 @@
 # JavaScript Drum Kit
 
+## Thoughts
+
 ## Organized Notes
 
-- Will add later
+- ​
 
 ## Raw Notes
 

@@ -7,4 +7,4 @@ Thoughts, solutions, lessons learned and notes to the JavaScript 30 challenges c
 ## Challenges
 
 - [x] JavaScript Drum Kit - Finished: 06/25 - [Notes](Challenge-Thoughts/01-drumkit.md) 
-- [ ] JS and CSS Clock - Finished: 06/26 - [Notes](Challenge-Thoughts/02-clock.md)
+- [x] JS and CSS Clock - Finished: 06/26 - [Notes](Challenge-Thoughts/02-clock.md)
