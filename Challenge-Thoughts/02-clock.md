@@ -1,5 +1,7 @@
 # CSS + JS Clock
 
+## Thoughts
+
 ## Organized Notes
 
 - ​
@@ -11,7 +13,5 @@
   - 100% -> Right hand side
   - 0% -> Left hand side
 - Template literals can be used *everywhere*
-
-## Thoughts
 
 ## Useful Links

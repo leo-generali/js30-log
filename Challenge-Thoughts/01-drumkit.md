@@ -2,6 +2,8 @@
 
 ## Thoughts
 
+This was a really good way to kick off the challenge. Right from the bat you learn some really interesting JS things (custom attributes, and the transitionend event listener come to mind). By the end of the ~30 minute lesson, you've got a fully working drumset!
+
 ## Organized Notes
 
 - ​
