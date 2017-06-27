@@ -2,9 +2,9 @@
 
 # JavaScript30
 
-My thoughts and solutions to the JS30 challenges created by [Wes Bos](http://wesbos.com/). 
+Thoughts, solutions, lessons learned and notes to the JavaScript 30 challenges created by [Wes Bos](http://wesbos.com/). Will try to get at least one of these done a day. 
 
 ## Challenges
 
-- [ ] JavaScript Drum Kit - Finished: 06/25 - [Notes](Challenge-Thoughts/01-drumkit.md) 
-- [ ] JS and CSS Clock - Finished - [Notes](Challenge-Thoughts/02-clock.md)
+- [x] JavaScript Drum Kit - Finished: 06/25 - [Notes](Challenge-Thoughts/01-drumkit.md) 
+- [ ] JS and CSS Clock - Finished: 06/26 - [Notes](Challenge-Thoughts/02-clock.md)
